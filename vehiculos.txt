@@ -1,0 +1,5 @@
+2020,Renault,23000000,negro
+2018,Kia,56000000,rojo
+2019,Mazda,112000000,blanco
+2020,Nissan,36500000,gris
+2017,Ford,307500000,azul
